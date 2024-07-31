@@ -27,5 +27,5 @@ If you're using Windows, you need to install Npcap, which is required for packet
 ### Step 2: Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/network-scanner.git
-cd network-scanner
+git clone https://github.com/diaaatya/net_scan.git
+cd net_scan
